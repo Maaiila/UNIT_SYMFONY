@@ -1,3 +1,0 @@
-# UNIT_SYMFONY
-
-TEST 
